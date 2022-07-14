@@ -1,4 +1,5 @@
 # install-k8s-vagrant
+Creation of Virtual machines using vagrant and Installation of kubernetes on those virtual machines. 
 Install virtual-box and vagrant
 
 Go to command prompt on your windows machine
